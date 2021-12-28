@@ -16,6 +16,6 @@ Optimally print in colour, Document is optimized for CMYK environments
 #
 Commisioned for WPILib Docs and Team 3161
 
-Diagram as a whole is Licensed in a Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License
+Diagram as a whole is Licensed in a Attribution 4.0 International (CC BY 4.0) License
 
 Logos on some vectors belong to their respective copyright owners
