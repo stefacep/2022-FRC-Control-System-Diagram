@@ -14,7 +14,7 @@ Optimally print in colour, Document is optimized for CMYK environments
 
 
 #
-Layout by Stefen Acepcion, Commisioned for WPILib Docs and Team 3161
+Commisioned for WPILib Docs and Team 3161
 
 Diagram as a whole is Licensed in a Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License
 
