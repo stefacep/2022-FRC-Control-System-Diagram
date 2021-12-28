@@ -6,9 +6,9 @@ The new 2022 FRC Control System Hardware are not a mandatory transition from its
 For more information regarding this control system and its changes, please visit https://docs.wpilib.org/
 
 # Printing Guidelines
-Document is optimised for a 24 x 36 inch poster, optimally print in that size, it may be printed in smaller or larger size provided its aspect ratio is the same
+Document is optimised for a 24 x 36 inch poster, optimally print in that size
 
-Including this page when printing is not nessesary, this page serves as an instruction and attribution page only.
+it may be printed in smaller or larger size provided its aspect ratio is the same
 
 Optimally print in colour, Document is optimized for CMYK environments
 
