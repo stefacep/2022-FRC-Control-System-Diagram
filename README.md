@@ -1,4 +1,6 @@
 # 2022-FRC-Control-System-Diagram
+![](https://raw.githubusercontent.com/stefacep/2022-FRC-Control-System-Diagram/main/2022%20FRC%20Control%20System%20Diagram.png) 
+
 This diagram aims to show how the FRC Control System is wired in its basic form, with fundamental components and configurations.
 
 The new 2022 FRC Control System Hardware are not a mandatory transition from its predessessor hardware but instead is an optional upgrade path.
