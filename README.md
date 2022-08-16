@@ -1,5 +1,5 @@
 # 2022-FRC-Control-System-Diagram
-![](https://raw.githubusercontent.com/stefacep/2022-FRC-Control-System-Diagram/main/2022%20FRC%20Control%20System%20Diagram.png) 
+![](https://github.com/stefacep/2022-FRC-Control-System-Diagram/blob/main/2022%20FRC%20Control%20System%20Diagram%20.png) 
 
 This diagram aims to show how the FRC Control System is wired in its basic form, with fundamental components and configurations.
 
