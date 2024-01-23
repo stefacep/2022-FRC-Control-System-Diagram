@@ -8,11 +8,11 @@ This new FRC Control System Hardware configuration is not a mandatory transition
 For more information regarding this control system and its changes, please visit https://docs.wpilib.org/ or consult FRC game manuals released from 2022-onwards
 
 # Printing Guidelines
-Document is optimised for a 24 x 36 inch poster, optimally print in that size
-
-it may be printed in smaller or larger size provided its aspect ratio is the same
-
 Optimally print in colour, Document is optimized for CMYK environments
+
+This diagram is optimised for a 24 x 36 inch poster. Optimally print in that size, it may be printed in smaller or larger size provided its aspect ratio is similar.
+
+Also print in colour, recommended 170 GSM or thicker paper, no bleed.
 
 
 #
