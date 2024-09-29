@@ -1,6 +1,7 @@
-# 2022-FRC-Control-System-Diagram
-#
-# This Specific Diagram is no longer recommended to be used for the 2025 Season and beyond due to changes in the FRC Control System. Please Visit https://github.com/stefacep/2025-FRC-Control-System-Diagrams for the newest iteration of these diagrams.
+
+# This Specific Diagram is no longer recommended to be used for the 2025 Season and beyond due to changes in the FRC Control System. 
+Please Visit https://github.com/stefacep/2025-FRC-Control-System-Diagrams for the newest iteration of these diagrams.
+
 #
 ![hippo](https://github.com/stefacep/2022-FRC-Control-System-Diagram/blob/main/2022%20FRC%20Control%20System%20Diagram%20.png) 
 
